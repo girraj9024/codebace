@@ -1,0 +1,203 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.ingone
+{
+    width: 100%;
+    height: 100%;
+}
+.ingone img
+{
+    width: 200px;
+    height: 50px;
+    margin-top: -20px;
+}
+.sman
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo
+{
+    margin: 30px 0 0 40px;
+}
+.here
+ {
+    color: white;
+    margin: 18px 20px;
+    background-color: #4E0FEA !important;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.sec a
+{
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+    margin: 40px 30px;
+}
+.sec
+{
+    margin: 30px;
+}
+.our
+{
+    text-align: center;
+    font-size: 22px;
+    margin: 30px;
+}
+.ione
+{
+  width: 100%;
+  height: 100%;
+}
+.rel
+{
+    position: relative;
+}
+.ione img
+{
+  width: 100px;
+  height: 100px;
+  border: 4px solid #eeeeee;
+  border-radius: 50%;
+  position: absolute;
+  margin: -10px 0 0 199px;
+  background-color: white;
+}
+.pro {
+    height: 300px;
+    width: 373px;
+    border: 4px solid #eeeeee;
+    border-radius: 20px;
+    margin: 39px 18px 27px 58px;
+    padding: 44px 25px 10px 25px;
+}
+.pro h2 {
+    margin-top: 34px;
+    margin-left: 81px;
+    margin-bottom: 22px;
+    font-weight: bold;
+}
+.pro p
+{
+    color: #555555;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.box
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.mack
+{
+  width: 100px;
+  height: 100px;
+  font-size: 64px;
+  border: 4px solid #eeeeee;
+  border-radius: 50%;
+  position: absolute;
+  margin: -10px 0 0 199px;
+  background-color: white;
+  padding-left: 18px;
+}
+.ipgp
+{
+    width: 100%;
+    height: 100%;
+}
+.ipgp img {
+    width: 801px;
+    height: 678px;
+    margin: 10px 274px;
+}
+.blue
+{
+    width: 100%;
+    height: 715px;
+    background-color: #4E0FEA;
+    margin-top: 80px;
+}
+.idea
+{
+    text-align: center;
+    margin: 60px;
+}
+.idea h2
+{
+    margin-top: 90px;
+    color: #212529;
+    font-size: 32px;
+}
+.idea h5
+{
+    margin-top: 25px;
+    color: #212529;
+    font-size: 19px;
+}
+.idea button
+{
+    margin-top: 20px;
+    padding: 13px 45px ;
+    border-radius: 33px;
+    background-color: #6032ff;
+    color: white;
+    font-size: 17px;
+}
+::after button
+{
+    background-color: white;
+}
+.flast
+{
+    width: 100%;
+    height: 450px;
+    background-color: #4e0fea;
+}
+.cod
+{
+     margin-left: 100px;
+    margin: 0px 100px;
+}
+.icon
+{
+    color: white;
+    font-size: 25px;
+    margin-left: 10px;
+}
+.conts
+{
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    margin-top: -30px;
+    color: white;
+    margin-right: 30px;
+    font-size: 14px;
+    font-weight: normal;
+}
+.fflast
+{
+    margin: 10px;
+    margin-left: 100px;
+    color: white;
+    font-size: 13px;
+}
+.fflast h4
+{
+    font-size: 10px;
+    color: #c9c0c0!important;
+    margin-top: 10px;
+}
+.fflast h5
+{
+    margin-top: 10px;
+}

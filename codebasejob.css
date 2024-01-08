@@ -1,0 +1,171 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.ing
+{
+    height: 100%;
+    width: 70%;
+}
+.ing img
+{
+    height: 70px;
+    width: 230px;
+    /* margin: 27px 49px; */
+}
+.nav
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.but button {
+    background-color: #4719ff;
+    padding: 4px 22px;
+    border-radius: 9px;
+    color: white;
+    font-size: 18px;
+    border: none;
+}
+.icc
+{
+   margin: 0px;
+   font-size: 21px;
+   margin-left: 5px;
+   color: #666666;
+}
+.blu
+{
+    height: 300px;
+    width: 100%;
+    background-color: #4719ff;
+    text-align: center;
+}
+.blu h1 {
+    font-size: 72px;
+    color: white;
+    padding: 17px 0px 8px 0px;
+    margin: 20px 0px 7px 0px;
+}
+.blu p {
+    color: white;
+    font-size: 24px;
+    padding: 20px 0px 41px 0px;
+}
+.blu a {
+    color: #000000;
+    padding: 15px 42px;
+    background-color: white;
+    font-size: 26px;
+    border-radius: 11px;
+    text-decoration: none;
+}
+.our {
+    font-size: 28px;
+    margin-top: 34px;
+    text-align: center;
+    margin-bottom: 26px;
+}
+.oone {
+    font-size: 19px;
+    color: #666666;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 90px;
+}
+/* element.style {
+    color: #666666;
+    padding: 9px 22px;
+    font-size: 15px;
+} */
+.oone select {
+    color: #666666;
+    padding: 4px 9px;
+    font-size: 17px;
+    margin: 0px 14px 0px 14px;
+}
+.apply {
+    margin-bottom: 90px;
+    width: 1106px;
+    height: 70px;
+    /* background-color: lightblue; */
+    margin: 0px 0px 50px 114px;
+    padding: 11px 0px 0px 0px;
+}
+.act h2
+{
+    margin-left: 150px;
+}
+.act span
+{
+    margin-left: 150px;
+    display: flex;
+}
+.aflex
+{
+    display: flex;
+    /* align-items: center;
+    list-style: none;
+    justify-content: center; */
+}
+span.times
+{
+    margin: 0px 0px 0px 0px;
+}
+.akar
+{
+    list-style: none;
+    color: #000000;
+    text-decoration: none;
+}
+.akar li
+{
+    list-style: none;
+}
+.time
+{
+    list-style: none;
+    margin-left: -124px;
+}
+.appp button {
+    margin: -46px 0px 0px 973px;
+    display: flex;
+    padding: 9px 30px;
+    background-color: #666666;
+    border: none;
+    color: white;
+    font-size: 17px;
+}
+li.list {
+    list-style: none;
+}
+.black
+{
+    width: 100%;
+    height: 100px;
+    background-color: #444444;
+}
+.code
+{
+    text-align: center;
+    padding-top: 40px;
+}
+.code a
+{
+    text-decoration: none;
+    color: white;
+    font-size: 23px;
+}
+.power
+{
+    color: white;
+}
+.bree
+{
+    color: white;
+    font-size: 23px;
+}
